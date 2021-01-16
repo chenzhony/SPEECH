@@ -7,5 +7,12 @@ namespace DefaultNamespace
         private var threeCommit = "three commit";
         
         private var fourCommit = "four commit";
+        private var fiveCommit = "five commit";
+        
+        private var fiveCommit = "five commit";private var fiveCommit = "five commit";
+        private var fiveCommit = "five commit";
+        
+        private var fiveCommit = "five commit";
+        
     }
 }
